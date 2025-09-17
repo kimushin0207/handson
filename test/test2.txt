@@ -1,2 +1,3 @@
 create by kimushin text2.txt
 update by kimushin test2.txt
+local update by kimushin test2.txt
